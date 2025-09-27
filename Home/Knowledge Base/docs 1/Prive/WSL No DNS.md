@@ -1,0 +1,1 @@
+https://superuser.com/questions/1533291/how-do-i-change-the-dns-settings-for-wsl2
